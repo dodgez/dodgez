@@ -1,11 +1,14 @@
 👋 Hi, I’m Zachary Dodge (@dodgez)
 
 👀 I’m interested in many different topics not limited to:
-  - Typescript
-  - React, NextJS, Vite
+  - Lean
+  - TypeScript
+  - React
+  - CI/CD and build infra
+  - Bazel
   - Git and GitHub
-  - Rust (and ecosystem)
-  - Haskell (and related category theory)
+  - Rust
+  - Haskell
   - Many more!
 
 📫 Send me an email at zacharysdodge(at)gmail.com
